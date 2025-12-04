@@ -1,0 +1,10 @@
+# gtxwc
+*.bak
+*.exe
+*.mp3
+*.mp4
+*.mscz
+*.sh
+*.webm
+bin
+tmp
